@@ -4,6 +4,8 @@ The Shoppers Market connects you with talented local vendors offering unique, ha
 
 Welcome to **The Shoppers Market**, your premier destination for unique local vendors. Our platform brings together a diverse selection of talented artisans and small business owners, offering handcrafted products that enrich your life and home.
 
+![image](https://github.com/user-attachments/assets/2d00e5c9-8c11-4af8-b938-5cb3170bdd7a)
+
 ## Project Overview
 
 At The Shoppers Market, we connect consumers with passionate local vendors, promoting community spirit and supporting local economies. Explore our curated collection of top-tier vendors specializing in various categories, including:
@@ -15,6 +17,9 @@ At The Shoppers Market, we connect consumers with passionate local vendors, prom
 
 Each vendor is committed to delivering exceptional quality and personalized service, ensuring that every purchase is a delightful experience.
 
+
+![image](https://github.com/user-attachments/assets/d8b2703f-6315-4132-8b72-e30811bfbc9e)
+
 ## Features
 
 - **Diverse Vendor Marketplace**: A wide range of local vendors offering unique handcrafted products.
@@ -23,15 +28,19 @@ Each vendor is committed to delivering exceptional quality and personalized serv
 - **Secure Payment Options**: Safe and secure payment methods to ensure a smooth transaction process.
 - **Community Engagement**: A platform that promotes local businesses and fosters community connections.
 
-## About the Developer
+## 👨‍💻 About the Developer
 
-My name is **Sajid Jamil**, and I am an experienced developer specializing in the Brilliant Directory platform. With a passion for creating engaging and user-friendly marketplace solutions, I am dedicated to helping businesses thrive online.
+At Metaviz, we have a team of experienced *Brilliant Directories* developers. This project showcases our ability to build feature-rich directories that deliver real value to both users and service providers.
 
-If you are looking for an expert developer to bring your project to life, **[contact me](mailto:your-email@example.com)** today! Let's work together to create something amazing.
+If you're looking for a **Brilliant Directory** expert to develop or enhance your directory platform, let's collaborate with us and create a powerful tool for your business!
 
-## Get in Touch
+---
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-github-profile](https://github.com/your-github-username)
+## 📬 Contact Me
 
-Thank you for visiting The Shoppers Market! Join us in celebrating creativity, quality, and the art of handmade goods.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
+
+---
+
+*Hire our team* to elevate your Brilliant Directories project, and let’s build a platform that meets your business needs!
